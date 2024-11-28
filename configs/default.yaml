@@ -1,0 +1,9 @@
+data: 
+  dataset_type: 'scannet'
+  input_dir: './data/scene0684_01'
+
+  init:
+    depth_model_type: 'metric3d'
+    normal_model_type: 'omnidata'
+
+  crop: 20

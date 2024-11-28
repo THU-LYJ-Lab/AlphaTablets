@@ -1,0 +1,6 @@
+[submodule "recon/third_party/omnidata"]
+	path = recon/third_party/omnidata
+	url = https://github.com/hyz317/omnidata
+[submodule "recon/third_party/metric3d"]
+	path = recon/third_party/metric3d
+	url = https://github.com/hyz317/Metric3D

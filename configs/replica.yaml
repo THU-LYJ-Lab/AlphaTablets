@@ -1,0 +1,9 @@
+data: 
+  dataset_type: 'replica'
+  input_dir: './data/office0'
+
+  init:
+    depth_model_type: 'metric3d'
+    normal_model_type: 'omnidata'
+
+  crop: 20
