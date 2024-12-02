@@ -3,12 +3,12 @@
 # AlphaTablets
 
 <p align="center">
-    📃 <a href="https://arxiv.org/abs/2411.?????" target="_blank">Paper</a> • 🌐 <a href="https://hyzcluster.github.io/alphatablets" target="_blank">Project Page</a>
+    📃 <a href="https://arxiv.org/abs/2411.19950" target="_blank">Paper</a> • 🌐 <a href="https://hyzcluster.github.io/alphatablets" target="_blank">Project Page</a>
 </p>
 
 > **AlphaTablets: A Generic Plane Representation for 3D Planar Reconstruction from Monocular Videos**
 >
-> [Yuze He](https://hyzcluster.github.io), [Wang Zhao](https://github.com/thuzhaowang), [Shaohui Liu](http://b1ueber2y.me/), Yubin Hu, Yushi Bai, Yu-Hui Wen, Yong-Jin Liu
+> [Yuze He](https://hyzcluster.github.io), [Wang Zhao](https://github.com/thuzhaowang), [Shaohui Liu](http://b1ueber2y.me/), [Yubin Hu](https://github.com/AlbertHuyb), [Yushi Bai](https://bys0318.github.io/), Yu-Hui Wen, Yong-Jin Liu
 >
 > NeurIPS 2024
 
@@ -140,7 +140,7 @@ If you find our work useful, please kindly cite:
 @article{he2024alphatablets,
   title={AlphaTablets: A Generic Plane Representation for 3D Planar Reconstruction from Monocular Videos}, 
   author={Yuze He and Wang Zhao and Shaohui Liu and Yubin Hu and Yushi Bai and Yu-Hui Wen and Yong-Jin Liu},
-  journal={arXiv preprint arXiv:2411.?????},
+  journal={arXiv preprint arXiv:2411.19950},
   year={2024}
 }
 ```
