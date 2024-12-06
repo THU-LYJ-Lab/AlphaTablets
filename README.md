@@ -42,6 +42,8 @@ conda activate alphatablets
 pip install torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 --index-url https://download.pytorch.org/whl/cu118
 
 # Install other dependencies
+# Note: mmcv package also requires CUDA. To avoid potential errors, set the CUDA_HOME environment variable and download a CUDA-compatible version of the library.
+# Example: python -m pip install mmcv==2.2.0 -f https://download.openmmlab.com/mmcv/dist/cu118/torch2.1/index.html
 pip install -r requirements.txt
 ```
 
